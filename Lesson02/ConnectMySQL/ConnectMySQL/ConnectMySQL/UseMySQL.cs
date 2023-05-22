@@ -50,7 +50,7 @@ namespace ConnectMySQL
 
                     if (flag)
                     {
-                        Console.Write("\nPress Enter to Continue");
+                        Console.Write("\n\nPress Enter to Continue");
                         var key = Console.ReadKey(true).Key;
                     }
                     else Console.WriteLine("\nGood Bye!");

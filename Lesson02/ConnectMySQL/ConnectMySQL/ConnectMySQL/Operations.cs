@@ -34,6 +34,12 @@ namespace ConnectMySQL
             {
                 if (reader.HasRows)
                 {
+                    Console.Clear();
+                    for (int i = 0; i < 50; i++) Console.Write("-");
+                    Console.WriteLine("\nId\tuser\t\t\tpass");
+                    for (int i = 0; i < 50; i++) Console.Write("-");
+                    Console.WriteLine();
+                    int count = 3;
 
                     while (reader.Read())
                     {
@@ -41,11 +47,14 @@ namespace ConnectMySQL
                         string user = reader.GetString(1);//user_name index = 1
                         int passIndex = reader.GetOrdinal("pass");// pass index = 2
                         string pass = reader.GetString(passIndex);
-
-                        Console.WriteLine("--------------------");
-                        Console.WriteLine("Id:" + id);
-                        Console.WriteLine("user:" + user);
-                        Console.WriteLine("pass:" + pass);
+                        
+                        Console.SetCursorPosition(0, count);
+                        Console.Write(id);
+                        Console.SetCursorPosition(8, count);
+                        Console.Write(user);
+                        Console.SetCursorPosition(32, count);
+                        Console.Write(pass);
+                        count++;
                     }
                 }
             }
