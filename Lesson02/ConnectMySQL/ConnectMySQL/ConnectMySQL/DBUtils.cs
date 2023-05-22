@@ -11,11 +11,11 @@ namespace ConnectMySQL
     {
         public static MySqlConnection GetDBConnection()
         {
-            string host = "localhost";
+            string host = "localhost";// Расположение MySQL Server
             int port = 3306;
-            string database = "homework02";
+            string database = "homework02";// Имя БД
             string username = "root";
-            string password = "papoaller125RUS!";
+            string password = "";//Паноль от MySQL
 
             return DBMySQLUtils.GetDBConnection(host, port, database, username, password);
         }
