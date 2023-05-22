@@ -1,0 +1,15 @@
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\ConnectMySQL.exe.config
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\ConnectMySQL.exe
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\ConnectMySQL.pdb
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\MySql.Data.dll
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\System.Memory.dll
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\System.Buffers.dll
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\bin\Debug\MySql.Data.xml
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.csproj.AssemblyReference.cache
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.csproj.SuggestedBindingRedirects.cache
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.csproj.CoreCompileInputs.cache
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.csproj.CopyComplete
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.exe
+C:\repo\SQL\Homework\Lesson02\ConnectMySQL\ConnectMySQL\ConnectMySQL\obj\Debug\ConnectMySQL.pdb
